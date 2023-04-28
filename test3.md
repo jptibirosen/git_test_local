@@ -5,3 +5,5 @@ refrigerator
 this is not another haiku
 it just pretends to be one
 stupid
+
+even more non-haikus
